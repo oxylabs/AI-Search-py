@@ -127,7 +127,7 @@ You can retrieve up to 50 search results per query by adjusting the limit parame
 
 
 ## Learn more
-For a deeper dive into available parameters, advanced integrations, and additional examples, check out the [AI Studio documentation](https://aistudio.oxylabs.io/apps/search).
+For a deeper dive into available parameters, advanced integrations, and additional examples, check out the [AI Studio documentation](https://developers.oxylabs.io/scraping-solutions/ai-studio/integrations/python-sdk).
 
 ## Contact us
 If you have questions or need support, reach out to us at [hello@oxylabs.io](mailto:hello@oxylabs.io) or through [live chat](https://oxylabs.drift.click/oxybot).
