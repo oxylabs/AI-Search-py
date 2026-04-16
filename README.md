@@ -57,10 +57,9 @@ Learn more about AI-Search and Oxylabs AI Studio Python SDK in our [PyPI reposit
 |----------------------|-----------------------------------------------------|---------------|
 | `query`              | What to search for                                  | **Required**  |
 | `limit`              | Maximum number of results to return (Maximum: 50)   |  10           |
-| `render_javascript` | Output format (`json`, `markdown`)                   | `False`       |
 | `render_javascript` | Enable render JavaScript                             | `False`       |
 | `return_content`    | Whether to return markdown contents in results       | `True`        |
-| `geo_location`      | Proxy location in ISO2 format                        |   –           |
+| `geo_location`      | Proxy location in ISO2 format                        |     –         |
 
 **Note:** When `limit <= 10` and `return_content=False`, the search automatically uses the instant endpoint (`/search/instant`) which returns results immediately without polling, providing faster response times.
 
