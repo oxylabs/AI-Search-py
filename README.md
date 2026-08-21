@@ -101,6 +101,8 @@ Learn more about AI-Search and Oxylabs AI Studio Python SDK in our [PyPI reposit
 ]
 ```
 
+[![Oxylabs promo code](https://github.com/oxylabs/AI-Search-py/blob/main/Github%20repositories%20banner%20v1%402x.png)](https://oxylabs.io/web-api-early-access?&utm_content=web_api_waitinglist&groupid=877)
+
 ## Practical use cases
 
 AI-Search can be applied to a wide variety of data discovery and collection tasks:
